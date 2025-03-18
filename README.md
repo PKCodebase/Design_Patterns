@@ -8,8 +8,9 @@ This repository contains implementations of various **Design Patterns** in Java.
 - **Singleton Pattern**
 - **Factory Pattern**
 - **Abstract Factory Pattern**  
-- **Breaking Singleton Using Reflection**  
-- **Breaking Singleton Using Serialization**  
+- **Break Singleton Using Reflection**  
+- **Break Singleton Using Serialization**
+- **Break Singleton Using Clonning**
 
 ### **Structural Patterns**  
 _(Coming Soon...)_
