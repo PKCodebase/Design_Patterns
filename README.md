@@ -5,7 +5,8 @@ This repository contains implementations of various **Design Patterns** in Java.
 ## 📌 Patterns Implemented  
 
 ### **Creational Patterns**
-- **Singleton Pattern**  
+- **Singleton Pattern**
+- **Factory Pattern**
 - **Abstract Factory Pattern**  
 - **Breaking Singleton Using Reflection**  
 - **Breaking Singleton Using Serialization**  
