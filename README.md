@@ -11,7 +11,8 @@ This repository contains implementations of various **Design Patterns** in Java.
 - **Break Singleton Using Reflection**  
 - **Break Singleton Using Serialization**
 - **Break Singleton Using Clonning**
-
+- **Builder Design Pattern**
+- **ProtoType Design Pattern**
 ### **Structural Patterns**  
 _(Coming Soon...)_
 
